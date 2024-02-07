@@ -1,0 +1,10 @@
+site_name: Álvaro Rivas
+
+theme:
+  name: readthedocs
+  nav_style: dark
+
+nav:
+  - Inicio: 'index.md'
+  - Sobre mí: 'about.md'
+  - Contacto: 'contact.md'
